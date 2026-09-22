@@ -1,0 +1,48 @@
+html {
+  height: 100%;
+  background: 50% 50% no-repeat;
+}
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), 
+    url("https://i.postimg.cc/mDhjD9yH/Wallpaper-foto.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+ul{
+  list-style-type: circle;
+}
+p {
+  font-family: impact;
+  color: white;html
+  font-size: 20px;
+}
+form {
+  font-family: helvetica bold;
+  color: white;
+}
+h1 {
+  text-align: center;
+  color: Purple;
+}
+h2 {
+  color: pink;
+}
+.fieldset-group {
+  flex-direction: column;
+}
+fieldset {
+  font-family: Ariel;
+  color: white;
+  {
+  
+svg {
+position: center;
+  top: 20px;
+  rigth: 20px;
+}
+  
+label {
+  display: block;
+  color: ;
+}
